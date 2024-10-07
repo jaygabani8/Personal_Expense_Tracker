@@ -45,7 +45,7 @@ Follow these steps to set up and run the application locally:
 
 2. ** Navigate to the Project Directory**
 
-   cd expense-tracker
+   cd Personal_Expense_Tracker
 
 3. Install Dependencies
 
