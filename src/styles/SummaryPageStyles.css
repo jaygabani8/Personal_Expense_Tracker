@@ -1,0 +1,24 @@
+.summary-container {
+  padding: 20px;
+  text-align: center;
+}
+
+.summary-paper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.table-title {
+  margin-top: 20px;
+}
+
+.total-expense {
+  margin-top: 20px;
+}
+
+.chart-container {
+  margin-top: 40px;
+  width: 50%;
+}
